@@ -59,5 +59,5 @@ program
     console.log(`Deleted task ${task}`);
   });
 
-// Parse the argument
+// Parse the argument comment
 program.parse(process.argv);
